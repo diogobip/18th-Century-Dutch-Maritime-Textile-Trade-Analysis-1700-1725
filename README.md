@@ -7,7 +7,7 @@ using Excel, SQL Server and Power BI.
 Understand what were the main dynamics of the Dutch textile trade having as the main question "How the dutch trade evolved from 1700-1725?"
 
 ## Data
-- Source: 
+- Source:https://dutchtextiletrade.org/about/ 
 - Coverage: shipments of the VOC and WIC trading companies, 1700-1724
 - Size: 23,383 raw rows
 - Values are recorded in Dutch guilders (Guldens)
@@ -34,12 +34,12 @@ and the analysis uses `textile_name` instead.
 - [Finding 3, e.g. how value changed over the years]
 
 ## Dashboard
-![Dashboard overview](images/dashboard-overview.png)
+<img width="1160" height="647" alt="image" src="https://github.com/user-attachments/assets/bb661244-8433-4e53-b2ba-bd264740ff12" />
+
 
 ## Limitations
 - Textile category is missing in most rows, so category-level analysis is
   not reliable.
-- [Your note on quantity units, if you confirm they are mixed.]
 - Historical records may be incomplete or inconsistent.
 
 ## Repository structure
